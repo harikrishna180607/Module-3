@@ -26,3 +26,4 @@ print(sum(l))
 <img width="913" height="310" alt="image" src="https://github.com/user-attachments/assets/f10caf2f-7103-4c0f-947b-b9a0d3b9daf3" />
 
 ## Result
+We got the sucessful output
