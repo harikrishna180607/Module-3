@@ -15,8 +15,8 @@ l = []
   for i in range(a):
   if i%2!=0:
       l.append(i)
-print(l)
-print(sum(l))
+print(f"{List = {l}"}
+print(f"Sum of the list = {sum(l)}")
 
 
 ```
